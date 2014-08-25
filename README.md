@@ -2,6 +2,8 @@
 
 A text-only version of the presentation I gave at [Redevelop.io](http://redevelop.io/).
 
+The original version can be seen on [Speaker Deck](https://speakerdeck.com/tombye/10-things-i-learnt-from-2-years-at-the-government-digital-service).
+
 Note: there are actually [11 things](http://en.wikipedia.org/wiki/Up_to_eleven)
 
 # Installing
